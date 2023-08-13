@@ -1,1 +1,26 @@
-no changelog avaiable
+>> TOTAL KILLER OFFICIAL CHANGELOG <<
+
+v1.1.4 (development build)
+- fixes to map colliders
+- several minor bug fixes not worth noting
+
+v1.1.3
+- animation improvements
+- vfx improvements
+- more content on the test map
+(terrain, building, pathways...)
+
+v1.1.2 (development build)
++ new map (in progress)
++ a few more animations
++ ak-47
++ more visual effects
+
+v1.1.1 (development build)
++ several fixes to the core mechanics (camera & movement)
++ a few new animations
+- optimizations
+
+v1.1.0 [first public version]
+- initial public release
+(features: controller, test map, menu)
