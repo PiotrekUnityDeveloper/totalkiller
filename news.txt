@@ -3,8 +3,7 @@
 </head>
 <body bgcolor="black">
 <h2><span style="color: #00ffff;">TOTAL KILLER NEWS</span></h2>
-<p><video controls="controls" width="386" height="193">
-<source src="https://github.com/PiotrekUnityDeveloper/totalkiller/blob/main/cepesgoNEW.PNG?raw=true" /></video></p>
+<p><img src="https://github.com/PiotrekUnityDeveloper/totalkiller/blob/main/cepesgoNEW.PNG?raw=true" alt="game_screenshot" width="454" height="246" /></p>
 <p><span style="color: #00ccff;">the FIRST version of <strong>Total Killer</strong> just got released on 02.08.2023!</span></p>
 </body>
 </HTML>
