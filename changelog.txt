@@ -1,6 +1,6 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.4 (development build)
+v1.1.4 (development build) [LATEST]
 - fixes to map colliders
 - several minor bug fixes not worth noting
 
