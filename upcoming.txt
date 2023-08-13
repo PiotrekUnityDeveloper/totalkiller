@@ -1,0 +1,6 @@
+>> UPCOMING FEATURES & CHANGES <<
+NEXT UPDATE (v1.1.5)
+                 planned features:
+-> NEW ANIMATIONS
+-> MAP CHANGES
+-> OPTIMIZATIONS
