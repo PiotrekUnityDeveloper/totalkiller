@@ -1,6 +1,12 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.4 (development build) [LATEST]
+v1.1.5 (development build) [LATEST]
+- map updates (mainly, added a crate)
+- destruction code improvements
+- sound fixes
+- destruction source and trigger script fixes
+
+v1.1.4 (development build)
 - fixes to map colliders
 - several minor bug fixes not worth noting
 
