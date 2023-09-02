@@ -1,6 +1,17 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.5 (development build) [LATEST]
+v1.1.7 (development build) [LATEST]
+- optimized smoke granades (only a bit)
+- added insta-smox granade (experimental)
+- added insta-smox granade 3d model
+- modified smoke granade 3d model
+
+v1.1.6
+- made some changes to the map
+- added smoke grenades
+- internal maps
+
+v1.1.5 (development build)
 - map updates (mainly, added a crate)
 - destruction code improvements
 - sound fixes
