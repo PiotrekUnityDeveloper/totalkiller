@@ -1,6 +1,12 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.7 (development build) [LATEST]
+v1.1.8
+- removed insta-smox grenades
+- fixes
+- house update
+- island map updates
+
+v1.1.7 (development build)
 - optimized smoke granades (only a bit)
 - added insta-smox granade (experimental)
 - added insta-smox granade 3d model
