@@ -2,6 +2,8 @@
 <head>
 </head>
 <body bgcolor="black">
+<p>UPDATED!!!!!!!!!!!</p>
+<p><img src="image.png" alt="m8_g" width="538" height="176" /></p>
 <h2><span style="color: #00ffff;">TOTAL KILLER NEWS</span></h2>
 <p><img src="https://github.com/PiotrekUnityDeveloper/totalkiller/blob/main/cepesgoNEW.PNG?raw=true" alt="game_screenshot" width="454" height="246" /></p>
 <p><span style="color: #00ccff;">the FIRST version of <strong>Total Killer</strong> just got released on 02.08.2023!</span></p>
