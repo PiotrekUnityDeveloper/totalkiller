@@ -1,5 +1,26 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
+v1.1.11 [LATEST]
+- fixed smokes, now you can't see thru
+- replaced and added new textures to smoke (to add variation)
+- added vape tool/weapon
+- added vape sound effects
+- reused the old smoke particles as vape exhale smoke
+- redone some animations (minor changes, you wont prolly notice)
+- hand item flickering fixed
+- smoke equip animation fix
+
+v1.1.10 (development build)
+- added new rendering system
+- post FX (optimized)
+- messed up and tried to optimize UGH >.<
+
+v1.1.9
+- added 2 more houses to the island map
+- optimized smoke particles
+- de-louded the glass SFX effect
+- many improvements to the controller
+
 v1.1.8
 - removed insta-smox grenades
 - fixes
