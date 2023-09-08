@@ -2,7 +2,7 @@
 <head>
 </head>
 <body bgcolor="black">
-<p>UPDATED!!!!!!!!!!!</p>
+<h4><span style="background-color: #ffffff;">UPDATED</span></h4>
 <p><img src="image.png" alt="m8_g" width="538" height="176" /></p>
 <h2><span style="color: #00ffff;">TOTAL KILLER NEWS</span></h2>
 <p><img src="https://github.com/PiotrekUnityDeveloper/totalkiller/blob/main/cepesgoNEW.PNG?raw=true" alt="game_screenshot" width="454" height="246" /></p>
