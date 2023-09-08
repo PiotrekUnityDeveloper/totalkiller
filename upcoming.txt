@@ -1,6 +1,15 @@
 >> UPCOMING FEATURES & CHANGES <<
-NEXT UPDATE (v1.1.5)
-                 planned features:
+NEXT UPDATE (v1.1.12)
+================ planned features:
 -> NEW ANIMATIONS
 -> MAP CHANGES
--> OPTIMIZATIONS
+-> MORE TOOLS AND WEAPONS such as:
+   - rocket launchers
+   - a veriety of granades
+   - cigarettes
+   - SMG's
+-> BETTER MAIN MENU
+-> MULTIPLAYER
+-> SITUATIONS, MISSIONS AND CAMPAIGN
+-> SNIPER SP, ASSASSIN SP, THIEF SP.. etc.
+-> HEALING ITEMS, FOOD........
