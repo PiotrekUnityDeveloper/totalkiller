@@ -1,6 +1,14 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.11 [LATEST]
+v1.1.12 (development build) [LATEST]
+- added a (primitive and semi-dynamic) crosshair
+- fixed infinite smoke grenades
+- changed some build meta
+- added new recoil system
+- enchanced recoil values
+- updated weapon scripts and overall code performance
+
+v1.1.11
 - fixed smokes, now you can't see thru
 - replaced and added new textures to smoke (to add variation)
 - added vape tool/weapon
