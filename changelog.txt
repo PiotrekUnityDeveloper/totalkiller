@@ -1,6 +1,13 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.12 (development build) [LATEST]
+v1.1.14 (development build) [LATEST]
+- added bullet marks and postp. stuff
+
+v1.1.13 (development build)
+- implemented a new FPS system with proper recoil
+- overhaul
+
+v1.1.12 (development build)
 - added a (primitive and semi-dynamic) crosshair
 - fixed infinite smoke grenades
 - changed some build meta
