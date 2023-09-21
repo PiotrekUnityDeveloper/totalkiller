@@ -1,6 +1,10 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.14 (development build) [LATEST]
+v1.1.15 (dev-only release leak) [LATEST]
+- portal gun testing project
+(purely for fun and capabilities tests)
+
+v1.1.14 (development build)
 - added bullet marks and postp. stuff
 
 v1.1.13 (development build)
