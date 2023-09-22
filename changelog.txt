@@ -1,6 +1,10 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-v1.1.15 (dev-only release leak) [LATEST]
+v1.1.16 (development build) [LATEST]
+- added proper bullet impact effects with smoke
+- messed with gun muzzle flash effects (kinda works, kinda not)
+
+v1.1.15 (dev-only release leak)
 - portal gun testing project
 (purely for fun and capabilities tests)
 
