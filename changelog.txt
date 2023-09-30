@@ -1,6 +1,6 @@
 >> TOTAL KILLER OFFICIAL CHANGELOG <<
 
-> this changelog is depreciated
+> this changelog is deprecated
 
 v1.1.16 (development build)
 - added proper bullet impact effects with smoke
