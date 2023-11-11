@@ -2,6 +2,8 @@
 
 > this changelog is deprecated
 
+v1.1.41 WITEK EPIC BUILD EDITION
+
 v1.1.16 (development build)
 - added proper bullet impact effects with smoke
 - messed with gun muzzle flash effects (kinda works, kinda not)
